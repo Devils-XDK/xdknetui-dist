@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Devils-XDK/xdknetui-dist/main/img/icon.png",
     "versions": [
       {
+        "version": "1.1.2.0",
+        "changelog": "",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/Devils-XDK/xdknetui-dist/releases/download/v1.1.2/XDKNetUI-1.1.2.0-server.zip",
+        "checksum": "35a29ee01859188e00974cb066a5772b",
+        "timestamp": "2026-07-22T21:26:19.1515757Z"
+      },
+      {
         "version": "1.1.1.0",
         "changelog": "",
         "targetAbi": "10.11.0.0",
